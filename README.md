@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">HacktoberFest Accepted </h1><br><br>
+<h1 align="center">HacktoberFest Accepted </h1><br>
 
 ## Languages and Frameworks Used
 
