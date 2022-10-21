@@ -12,8 +12,6 @@
 
 • CSS
 
-• Javascript
-
 • [**Bootstrap**](https://getbootstrap.com/)
 
 
