@@ -1,5 +1,5 @@
 # Coding-Hustlers
-<h4 align="center"> India's Top Growing Student Technical Community of 8,000+ Students, We Organizes Open Source Programs, Hackathons and 1:1 Mentorships. </h4><br>
+<h4 align="center"> India's Top Growing Student Technical Community of 8,000+ Students, We Organizes Open Source Programs, Hackathons and 1:1 Mentorships. </h4>
 
 
 
