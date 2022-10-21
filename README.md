@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">HacktoberFest Accepted </h1>
+<h1 align="center">HacktoberFest Accepted </h1><br><br>
 
 ## Languages and Frameworks Used
 
@@ -14,7 +14,8 @@
 
 • Javascript
 
-• [**Spectre.css**](https://picturepan2.github.io/spectre)
+• [**Bootstrap**](https://getbootstrap.com/)
+
 
  ## Contributing Guidelines
 
